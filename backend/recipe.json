@@ -1,0 +1,22 @@
+{
+    "name":"Tochitura Moldoveneasca",
+    "ingredients":[
+        "oua",
+        "sunca",
+        "branza sarata",
+        "ceapa",
+        "faina de porumb",
+        "ulei de floarea soarelui"
+    ],
+    "preparare":[
+        "Se pune apa la fiert",
+        "Se adauga faina de porumb dupa aproximativ 2 minute",
+        "Se prajesc ouale intre timp",
+        "Se taie sunca cubulete mici sau medii dupa gust",
+        "Se pregateste branza sarata",
+        "Se scoate mamaliga",
+        "Se adauga carnea in oua"
+    ],
+    "tipPreparat":"fel principal",
+    "recomandari":"Sa se foloseasca ulei Unisol, are un gust mai bun."
+}
